@@ -61,10 +61,3 @@ Check out ```train_predict()``` to modify the number of iterations (epochs), bat
 
 After this script finishes, in ```imgs_mask_test.npy``` masks for corresponding images in ```imgs_test.npy```
 should be generated. I suggest you examine these masks for getting further insight of your model's performance.
-
-### Generate submission
-
-* Run ```python submission.py``` to generate the submission file ```submission.csv``` for the generated masks.
-
-Check out function ```submission()``` and ```run_length_enc()``` (thanks woshialex) for details.
-
