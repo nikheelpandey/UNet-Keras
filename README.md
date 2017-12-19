@@ -1,8 +1,7 @@
 # U-net-example
 Script present here used in preparing and training u-net classifier
  
-# Deep Learning Tutorial for Kaggle Ultrasound Nerve Segmentation competition, using Keras
-
+# Kaggle Ultrasound Nerve Segmentation competition
 This tutorial shows how to use [Keras library](http://keras.io/) to build deep neural network for ultrasound image nerve segmentation.
 More info on this Kaggle competition can be found on [https://www.kaggle.com/c/ultrasound-nerve-segmentation](https://www.kaggle.com/c/ultrasound-nerve-segmentation).
 
