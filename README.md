@@ -1,4 +1,4 @@
-# Kaggle Ultrasound Nerve Segmentation competition
+# Ultrasound Nerve Segmentation
 This tutorial shows how to use [Keras library](http://keras.io/) to build deep neural network for ultrasound image nerve segmentation.
 More info on this Kaggle competition can be found on [https://www.kaggle.com/c/ultrasound-nerve-segmentation](https://www.kaggle.com/c/ultrasound-nerve-segmentation).
 
