@@ -1,9 +1,10 @@
-# Ultrasound Nerve Segmentation
+# Ultrasound Nerve Segmentation using U-Net
+
 This tutorial shows how to use [Keras library](http://keras.io/) to build deep neural network for ultrasound image nerve segmentation.
 More info on this Kaggle competition can be found on [https://www.kaggle.com/c/ultrasound-nerve-segmentation](https://www.kaggle.com/c/ultrasound-nerve-segmentation).
 
 This deep neural network achieves **~0.57 score on the leaderboard** based on test images,
-and can be a good staring point for further, more serious approaches.
+and can be a good starting point for further, more serious approaches.
 
 The architecture was inspired by [U-Net: Convolutional Networks for Biomedical Image Segmentation](http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/).
 
